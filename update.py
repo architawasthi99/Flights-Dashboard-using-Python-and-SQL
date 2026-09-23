@@ -1,3 +1,4 @@
+#UPDATE THROUGH SQL/NORMAL PYTHON 
 from database import connection, cursor
 
 cursor.execute("""
