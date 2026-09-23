@@ -10,7 +10,7 @@ connection.commit()
 print("Airport city updated successfully")
 
 
- UPDATE THEOUGH WEB APPLICATION
+# UPDATE THEOUGH WEB APPLICATION
 
 from fastapi import FastAPI
 app = FastAPI()
